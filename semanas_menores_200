@@ -1,0 +1,2 @@
+Ejercicio4
+grep "Semana" totales.txt | < 200 > semanas_menores_200
